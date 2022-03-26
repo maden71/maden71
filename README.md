@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kristian
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Java Programming
 - I’m currently learning Java
 - How to reach me kristian71m@gmail.com
