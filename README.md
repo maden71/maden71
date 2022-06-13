@@ -1,4 +1,4 @@
-[![MasterHead](https://www.coindesk.com/resizer/ADSVwbZ9tR7qqg3t29LkjVwB_Bg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GNYP26OXSRH3TCU6ISRYQPUW34.gif)
+![MasterHead](https://www.coindesk.com/resizer/ADSVwbZ9tR7qqg3t29LkjVwB_Bg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GNYP26OXSRH3TCU6ISRYQPUW34.gif)
 <h1 align="center">Hi 👋, I'm Kristian</h1>
 <h3 align="center">A passionate Java developer from Bulgaria</h3>
 
