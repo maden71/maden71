@@ -1,4 +1,4 @@
-![MasterHead]([https://cutewallpaper.org/27/black-and-red-gif-wallpaper/erica-anderson-%E2%80%94-red-blood-cells-you-can-get-this-gif-as-a-phone.gif])
+![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZocWZ6ZW12NnFpdnlsbGF2Y2Fjd3k3MjM5N2k2d25zenNzbGhzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkZGuTKlARUhIwHw6v/giphy.gif)
 <h1 align="center">Hi 👋, I'm Kristian</h1>
 <h3 align="center">A passionate Java developer from Bulgaria</h3>
 
