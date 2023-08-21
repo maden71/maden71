@@ -1,4 +1,4 @@
-![MasterHead]([https://www.coindesk.com/resizer/ADSVwbZ9tR7qqg3t29LkjVwB_Bg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GNYP26OXSRH3TCU6ISRYQPUW34.gif](https://cutewallpaper.org/27/black-and-red-gif-wallpaper/erica-anderson-%E2%80%94-red-blood-cells-you-can-get-this-gif-as-a-phone.gif))
+![MasterHead]([https://cutewallpaper.org/27/black-and-red-gif-wallpaper/erica-anderson-%E2%80%94-red-blood-cells-you-can-get-this-gif-as-a-phone.gif])
 <h1 align="center">Hi 👋, I'm Kristian</h1>
 <h3 align="center">A passionate Java developer from Bulgaria</h3>
 
