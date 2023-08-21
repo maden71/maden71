@@ -1,4 +1,4 @@
-![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZocWZ6ZW12NnFpdnlsbGF2Y2Fjd3k3MjM5N2k2d25zenNzbGhzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkZGuTKlARUhIwHw6v/giphy.gif)
+![MasterHead]()
 <h3 align="center">A passionate Java developer from Bulgaria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maden71" alt="maden71" /></a> </p>
